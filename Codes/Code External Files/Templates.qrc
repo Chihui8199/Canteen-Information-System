@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="Template">
+    <file>Slide1.PNG</file>
+    <file>Slide2.PNG</file>
+    <file>Slide3.PNG</file>
+    <file>Slide4.PNG</file>
+    <file>Slide5.PNG</file>
+    <file>Slide6.PNG</file>
+    <file>Slide7.PNG</file>
+    <file>Slide8.PNG</file>
+    <file>Slide9.PNG</file>
+    <file>Slide10.PNG</file>
+    <file>Slide11.PNG</file>
+    <file>Slide12.PNG</file>
+    <file>Slide13.PNG</file>
+    <file>Slide14.PNG</file>
+    <file>Slide15.PNG</file>
+    <file>Slide16.PNG</file>
+    <file>Slide17.PNG</file>
+    <file>Slide18.PNG</file>
+    <file>Slide19.PNG</file>
+    <file>Slide20.PNG</file>
+    <file>Slide21.PNG</file>
+    <file>Slide22.PNG</file>
+    <file>Slide23.PNG</file>
+    <file>Slide24.PNG</file>
+    <file>Slide25.PNG</file>
+    <file>Slide26.PNG</file>
+    <file>Slide27.PNG</file>
+    <file>Slide28.PNG</file>
+    <file>Slide29.PNG</file>
+    <file>Slide30.PNG</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>

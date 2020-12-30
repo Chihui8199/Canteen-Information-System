@@ -1,0 +1,89 @@
+{
+    "Chicken Rice": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    },
+    "Handmade Noodle": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    },
+    "Indian Food": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    },
+    "McDonald's": {
+        "Weekday": [
+            "07:00:00",
+            "23:59:59"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "23:59:59"
+        ],
+        "Sunday": [
+            "10:00:00",
+            "18:00:00"
+        ],
+        "PH": "Closed"
+    },
+    "Mini Wok": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    },
+    "Vegetarian": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    },
+    "Western Food": {
+        "Weekday": [
+            "07:00:00",
+            "21:00:00"
+        ],
+        "Saturday": [
+            "07:00:00",
+            "15:00:00"
+        ],
+        "Sunday": "Closed",
+        "PH": "Closed"
+    }
+}

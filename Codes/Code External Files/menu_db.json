@@ -1,0 +1,122 @@
+{
+    "Chicken Rice": {
+        "Wait Time": 1,
+        "Special": null,
+        "Menu": {
+            "Steamed Chicken Rice": "$3.00",
+            "Roasted Chicken Rice": "$3.00",
+            "Roasted Chicken Noodle": "$3.00",
+            "Curry Chicken Noodle": "$3.00",
+            "Lemon Chicken Rice": "$3.00"
+        }
+    },
+    "Handmade Noodle": {
+        "Wait Time": 3.5,
+        "Special": null,
+        "Menu": {
+            "Ban Mian": "$3.00",
+            "Dumpling Ban Mian": "$3.50",
+            "Sliced Fish Ban Mian": "$3.80",
+            "Steamed Dumplings": "$3.30"
+        }
+    },
+    "Indian Food": {
+        "Wait Time": 1.5,
+        "Special": null,
+        "Menu": {
+            "Plain Prata": "$0.80",
+            "Egg Prata": "$1.30",
+            "Roti John Cheese": "$3.00",
+            "Chicken Briyani": "$4.50",
+            "Nasi Goreng": "$3.00"
+        }
+    },
+    "McDonald's": {
+        "Wait Time": 1,
+        "Special": "Time",
+        "Special Timings": {
+            "Breakfast": [
+                "07:00:00",
+                "11:00:00"
+            ],
+            "Regular": [
+                "11:00:01",
+                "23:59:59"
+            ]
+        },
+        "Menu": {
+            "Breakfast": {
+                "Big Breakfast": "$7.50",
+                "Scrambled Egg Burger Set": "$6.30",
+                "Breakfast Wrap Chicken Ham": "$6.20"
+            },
+            "Lunch": {
+                "McSpicy Set": "$7.70",
+                "Crispy Fish Sandwich Set": "$8.40",
+                "Chicken McNuggets Set": "$6.70",
+                "McWing": "$2.7"
+            }
+        }
+    },
+    "Mini Wok": {
+        "Wait Time": 2,
+        "Special": null,
+        "Menu": {
+            "Fried Beef Hor Fun": "$4.80",
+            "Seafood Ee Mian": "$3.80",
+            "Black Pepper Pork Rice": "$4.50",
+            "Ginger and Onion Beef Rice": "$4.80"
+        }
+    },
+    "Vegetarian": {
+        "Wait Time": 1.5,
+        "Special": "Day",
+        "Menu": {
+            "Monday": {
+                "Lor Mee": "$3.00",
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            },
+            "Tuesday": {
+                "Laksa": "$3.00",
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            },
+            "Wednesday": {
+                "Mee Rebus": "$2.80",
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            },
+            "Thursday": {
+                "Kway Chap": "$3.00",
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            },
+            "Friday": {
+                "Prawn Noodle Soup": "$3.00",
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            },
+            "Saturday": {
+                "Fried Rice": "$1.20",
+                "Vegetable": "$1.00",
+                "Bee Hoon Set": "$2.80"
+            }
+        }
+    },
+    "Western Food": {
+        "Wait Time": 3,
+        "Special": null,
+        "Menu": {
+            "Beef Steak": "$6.30",
+            "Fish and Chips": "$4.80",
+            "Sausage Rice": "$4.80",
+            "Chicken Chop Rice": "$4.80"
+        }
+    }
+}
